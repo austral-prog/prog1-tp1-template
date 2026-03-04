@@ -7,10 +7,3 @@ def triangle():
     """
     base = 10
     altura = 6
-
-    # TODO: Completar el código aquí
-    # Pista: area = (base * altura) / 2
-
-
-if __name__ == "__main__":
-    triangle()

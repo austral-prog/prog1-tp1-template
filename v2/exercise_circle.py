@@ -10,12 +10,3 @@ def circle():
     2. La circunferencia (2 × π × radio)
     """
     radio = 5
-
-    # TODO: Completar el código aquí
-    # Pista: área = pi * radio ** 2
-    #        circunferencia = 2 * pi * radio
-    # La constante pi ya está importada arriba
-
-
-if __name__ == "__main__":
-    circle()

@@ -9,13 +9,3 @@ def length():
     4. Pulgadas (1 pulgada ≈ 0.0254 m)
     """
     metros = 1000
-
-    # TODO: Completar el código aquí
-    # Pista: kilometros = metros / 1000
-    #        millas = metros / 1609.34
-    #        pies = metros / 0.3048
-    #        pulgadas = metros / 0.0254
-
-
-if __name__ == "__main__":
-    length()

@@ -8,11 +8,3 @@ def rectangle():
     """
     base = 10
     altura = 5
-
-    # TODO: Completar el código aquí
-    # Pista: área = base * altura
-    #        perímetro = 2 * base + 2 * altura
-
-
-if __name__ == "__main__":
-    rectangle()

@@ -10,12 +10,3 @@ def swap():
     """
     x = 10
     y = 20
-
-    # TODO: Completar el código aquí
-    # Primero imprimí los valores originales
-    # Luego intercambialos usando: x, y = y, x
-    # Finalmente imprimí los valores intercambiados
-
-
-if __name__ == "__main__":
-    swap()

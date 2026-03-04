@@ -13,15 +13,3 @@ def math():
     """
     a = 57
     b = 7
-
-    # TODO: Completar el código aquí
-    # Pista: Usá los operadores +, -, *, /, //, %
-
-    # Ejemplo de lo que deberías imprimir:
-    # print(a + b)  # suma
-    # print(a - b)  # diferencia
-    # ...
-
-
-if __name__ == "__main__":
-    math()
